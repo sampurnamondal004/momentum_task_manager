@@ -78,7 +78,7 @@ momentum/
 │   ├── scratch/verify_mvp.py
 │   ├── .env
 │   └── requirements.txt
-└── frontend/
+└── frontend(1)/
     ├── src/
     │   ├── App.jsx
     │   ├── api.js
@@ -113,7 +113,7 @@ uvicorn app.main:app --reload
 ## Getting started — frontend
 
 ```bash
-cd frontend
+cd frontend(1)
 npm install
 cp .env.example .env      # set VITE_API_URL if your backend isn't on localhost:8000
 npm run dev
