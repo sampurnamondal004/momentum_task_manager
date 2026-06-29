@@ -1,0 +1,6 @@
+{
+  "name": "Momentum",
+  "description": "An intelligent productivity companion with automated task parsing, priority queue scoring, and bento grid layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
